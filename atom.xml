@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ziipe</title>
+  
+  
+  <link href="https://ziipe.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://ziipe.github.io/"/>
+  <updated>2021-06-12T09:45:48.732Z</updated>
+  <id>https://ziipe.github.io/</id>
+  
+  <author>
+    <name>Ziipe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://ziipe.github.io/2021/06/12/test/"/>
+    <id>https://ziipe.github.io/2021/06/12/test/</id>
+    <published>2021-06-12T09:45:48.000Z</published>
+    <updated>2021-06-12T09:45:48.732Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
